@@ -16,14 +16,6 @@ Esta é uma aplicação web simples que mostra as informações climáticas de q
 - JavaScript
 - API OpenWeather
 
-## Como instalar
-
-Para instalar esta aplicação, você precisa ter o Node.js instalado no seu computador. Depois, siga estes passos:
-
-1. Clone este repositório para o seu computador usando o comando `git clone https://github.com/seu-usuario/aplicacao-web-de-clima.git`
-2. Navegue até a pasta do projeto usando o comando `cd aplicacao-web-de-clima`
-3. Instale as dependências do projeto usando o comando `npm install`
-4. Crie um arquivo chamado `.env` na raiz do projeto e adicione as seguintes variáveis de ambiente com os seus respectivos valores:
 
 ## Como usar
 
