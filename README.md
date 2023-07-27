@@ -25,8 +25,6 @@ Para instalar esta aplicação, você precisa ter o Node.js instalado no seu com
 3. Instale as dependências do projeto usando o comando `npm install`
 4. Crie um arquivo chamado `.env` na raiz do projeto e adicione as seguintes variáveis de ambiente com os seus respectivos valores:
 
-
-
 ## Como usar
 
 Para usar esta aplicação, basta digitar o nome da cidade que você deseja pesquisar no campo de entrada e clicar no botão "Buscar". A aplicação irá mostrar as informações climáticas da cidade na tela, bem como uma imagem da mesma. Você pode pesquisar quantas cidades quiser.
